@@ -620,7 +620,7 @@ bool CryptoNoteProtocolHandler::on_connection_synchronized() {
       logger(INFO, WHITE) << " If you need more assistance, visit the #HELP channel in the PetcoinCoin Discord Chat - http://chat.pet-coin.net" << ENDL ;
       logger(INFO, BRIGHT_MAGENTA) << "===================================================" << ENDL << ENDL ;
 
-      logger(INFO, BRIGHT_GREEN) <<
+      logger(INFO, BRIGHT_Blue) <<
 
       #ifdef _WIN32
       "\n																\n"
